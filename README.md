@@ -4,7 +4,7 @@ valutaKalkulator med ExhangeRate-API
 ## Viktig informasjon
 - Dette er en valutakalkulator som henter den nyeste informasjonen om valutakurser og oppdaterer dem jevnlig ved hjelp av ExchangeRate-API.
 - !Husk å sette in din egen LENKE i JavaScript-koden fra ExchangeRate-API's hjemmeside.
-### Hvordan:
+### Guide:
 - 1. Ved "Tast inn beløp" skriv in et nummer.
 - 2. så velg "Fra valuta" og velg ditt ønske.
 - 3. Etter det velg "Til valutaer" og velg en valuta.
